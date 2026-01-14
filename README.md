@@ -1,16 +1,41 @@
-## Hi there 👋
+# ZeroTrace-01🐣
 
-<!--
-**ZeroTrace-01/ZeroTrace-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Tool Developer | Pentester Mindset | Code is My Weapon**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"A real pentester doesn't make noise,  
+he lets his tools speak for him."*
+
+---
+
+## 👨‍💻 About Me
+I am a Python-based tool developer who focuses on building automation tools, scanners, and utilities for security testing.  
+I believe that a true pentester is not measured by tools he uses, but by logic, patience, and discipline.
+
+---
+
+## ⚙️ What I Do
+- Build custom tools using **Python**
+- Create automation scripts for testing & analysis
+- Develop CLI-based utilities
+- Focus on efficiency, simplicity, and clean logic
+
+---
+
+## 🧠 Pentester Mindset
+> *"Think like an attacker, act like a defender."*  
+> *"Silence is power. Observation is weapon."*  
+> *"I don't rush. I map. I analyze. Then I execute."*
+
+---
+
+## 🔗 Connect With Me
+- Telegram: https://t.me/@ThreatZero
+- TikTok: https://www.tiktok.com/@zero.trace_1
+
+---
+
+## 🛠️ Tools & Projects
+Check my repositories below.  
+Every tool here is built with logic, not copy-paste.
